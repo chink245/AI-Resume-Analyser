@@ -1,0 +1,51 @@
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python / FastAPI backend
+# =========================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Node.js / Next.js frontend
+# =========================
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.vercel/
+
+# =========================
+# Machine learning caches
+# =========================
+.cache/
+.huggingface/
+
+# =========================
+# Uploaded files and private data
+# =========================
+uploads/
+uploaded_resumes/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs and IDE files
+# =========================
+*.log
+.vscode/
+.idea/

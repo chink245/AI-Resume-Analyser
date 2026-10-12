@@ -1,0 +1,28 @@
+technology,aliases,category
+FastAPI,fast api;fast-api,Python Web Framework
+Next.js,next js;nextjs,JavaScript Framework
+Node.js,node js;nodejs,JavaScript Runtime
+Express.js,express;express js;expressjs,Node.js Framework
+Django,django framework,Python Web Framework
+Flask,flask framework,Python Web Framework
+React,reactjs;react js,JavaScript UI Library
+React Native,react-native;reactnative,Mobile Framework
+Angular,angularjs;angular js,JavaScript Framework
+Vue.js,vue;vuejs;vue js,JavaScript Framework
+TypeScript,typescript;ts,Programming Language
+JavaScript,javascript;js,Programming Language
+Tailwind CSS,tailwind;tailwindcss,CSS Framework
+Bootstrap,bootstrap css,UI Framework
+Redis,redis database,Database
+Docker,docker container;docker containers,Containerization
+Kubernetes,k8s;container orchestration,Kubernetes
+Jenkins,jenkins ci;jenkins pipeline,CI/CD
+GitHub,github;github actions,Developer Platform
+GitLab,gitlab;gitlab ci,Developer Platform
+AWS,amazon web services;aws cloud,Cloud Platform
+Azure,microsoft azure;azure cloud,Cloud Platform
+Google Cloud,gcp;google cloud platform,Cloud Platform
+PostgreSQL,postgres;postgresql database,Database
+MongoDB,mongodb database;mongo database,Database
+MySQL,mysql database,Database
+.NET,dotnet;dot net;asp.net;asp net,Programming Framework
