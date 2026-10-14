@@ -1,5 +1,5 @@
-from final_skill_resolver import resolve_resume_skills
-from jd_skill_extractor import extract_jd_skills
+from app.final_skill_resolver import resolve_resume_skills
+from app.jd_skill_extractor import extract_jd_skills
 
 
 def normalize_skill_name(skill):

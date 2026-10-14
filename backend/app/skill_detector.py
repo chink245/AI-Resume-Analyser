@@ -1,10 +1,10 @@
-from unified_skill_loader import load_unified_skills
-from skill_alias_index import build_alias_index
-from technology_index import build_technology_index
+from app.unified_skill_loader import load_unified_skills
+from app.skill_alias_index import build_alias_index
+from app.technology_index import build_technology_index
 import re
 
 
-# =========================================================
+# =========================================================                             
 # LOAD KNOWLEDGE BASE
 # =========================================================
 

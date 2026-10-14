@@ -5,7 +5,7 @@ from pydantic import BaseModel
 import re
 import pymupdf
 
-from analysis_service import analyze_resume_vs_job
+from app.analysis_service import analyze_resume_vs_job
 
 
 router = APIRouter()

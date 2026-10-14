@@ -1,4 +1,4 @@
-from unified_skill_loader import load_unified_skills
+from app.unified_skill_loader import load_unified_skills
 import pandas as pd
 from pathlib import Path
 import re

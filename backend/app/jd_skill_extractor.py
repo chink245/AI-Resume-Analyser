@@ -1,4 +1,4 @@
-from skill_detector import detect_exact_skills
+from app.skill_detector import detect_exact_skills
 
 
 # =========================================================

@@ -1,5 +1,5 @@
 from sentence_transformers import SentenceTransformer
-from unified_skill_loader import load_unified_skills
+from app.unified_skill_loader import load_unified_skills
 from pathlib import Path
 import numpy as np
 import faiss

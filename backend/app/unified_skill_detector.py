@@ -1,4 +1,4 @@
-from unified_skill_loader import load_unified_skills
+from app.unified_skill_loader import load_unified_skills
 from skill_alias_index import build_alias_index
 from technology_index import build_technology_index
 from vector_index import search_skills

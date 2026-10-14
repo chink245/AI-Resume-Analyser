@@ -1,6 +1,6 @@
-from skill_detector import detect_exact_skills
-from candidate_extractor import extract_candidates
-from vector_index import search_skills_batch
+from app.skill_detector import detect_exact_skills
+from app.candidate_extractor import extract_candidates
+from app.vector_index import search_skills_batch
 
 import re
 
